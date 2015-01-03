@@ -9,7 +9,7 @@
 #' create an all option to merge all pictures within the directory and all subdirectories
 #' 
 #' create a "small" option that will create small sized version of all pictures
-#' copy them into a directory than apply the code on these small sized pictures
+#' copy them into a directory and then apply the code on these small sized pictures
 #' in order to have a quick check 
 
 #######################################################################################
