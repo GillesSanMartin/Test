@@ -1,4 +1,6 @@
 
+#######################################################################################
+
 #' TODO
 #' create a list of enfuse options , algo_01, algo_02,...
 #' merge the slabs with each of these algorithms
@@ -9,6 +11,8 @@
 #' create a "small" option that will create small sized version of all pictures
 #' copy them into a directory than apply the code on these small sized pictures
 #' in order to have a quick check 
+
+#######################################################################################
 
 
 setwd("/home/gilles/stats/Rprojects/201412_stacking/photos")
@@ -143,6 +147,7 @@ end <- Sys.time()
 end-start
 
 
+# Time consumed by the whole process
 z <- Sys.time()
 z - a
 
